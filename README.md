@@ -11,4 +11,6 @@ Famous card game with an intelligent AI <br /><br />
 
 <img src="https://user-images.githubusercontent.com/23034890/34436528-b0a08c2c-eca7-11e7-9506-3b8938dfe82a.jpg"> <br />
 </p> 
-          
+
+
+        <a href="https://dnikolaiev.github.io/BlackJack/">Play</a> 
