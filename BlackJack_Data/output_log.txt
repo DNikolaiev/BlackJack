@@ -1,0 +1,1284 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2025 MB
+    Driver:   23.20.782.259
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\UnityGames\BlackJack\BlackJack_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityGames\BlackJack\BlackJack_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 11.372011 ms
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuController.NewGame () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.450230 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 422.
+Total: 0.422272 ms (FindLiveObjects: 0.058382 ms CreateObjectMapping: 0.025947 ms MarkObjects: 0.323731 ms  DeleteObjects: 0.013591 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345046 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 530.
+Total: 0.407136 ms (FindLiveObjects: 0.062707 ms CreateObjectMapping: 0.011429 ms MarkObjects: 0.324349 ms  DeleteObjects: 0.008031 ms)
+
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuController.NewGame () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuController.NewGame () [0x00000] in <filename unknown>:0 
+  at MenuController.Confirm () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.520504 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 537.
+Total: 0.418256 ms (FindLiveObjects: 0.027801 ms CreateObjectMapping: 0.011429 ms MarkObjects: 0.367905 ms  DeleteObjects: 0.010811 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373465 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.470461 ms (FindLiveObjects: 0.033979 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.414240 ms  DeleteObjects: 0.004324 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.611630 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.654259 ms (FindLiveObjects: 0.080932 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.524211 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352460 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.524211 ms (FindLiveObjects: 0.084330 ms CreateObjectMapping: 0.017298 ms MarkObjects: 0.417021 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.678045 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.536567 ms (FindLiveObjects: 0.044482 ms CreateObjectMapping: 0.017298 ms MarkObjects: 0.457487 ms  DeleteObjects: 0.016371 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.351533 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.590007 ms (FindLiveObjects: 0.077535 ms CreateObjectMapping: 0.039539 ms MarkObjects: 0.467063 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.706773 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.524211 ms (FindLiveObjects: 0.043555 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.453780 ms  DeleteObjects: 0.009576 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370994 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.470770 ms (FindLiveObjects: 0.032743 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.416403 ms  DeleteObjects: 0.004633 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUIManager.Cancel () [0x00000] in <filename unknown>:0 
+  at GUIManager.AllowInsurance () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.657039 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.481891 ms (FindLiveObjects: 0.040157 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.416403 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329292 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.553556 ms (FindLiveObjects: 0.073828 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.434010 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665998 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.471697 ms (FindLiveObjects: 0.031508 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.414240 ms  DeleteObjects: 0.008649 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.364816 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.474168 ms (FindLiveObjects: 0.035215 ms CreateObjectMapping: 0.017607 ms MarkObjects: 0.416712 ms  DeleteObjects: 0.004324 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUIManager.Cancel () [0x00000] in <filename unknown>:0 
+  at GUIManager.AllowInsurance () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665071 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.512163 ms (FindLiveObjects: 0.049733 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.433393 ms  DeleteObjects: 0.011738 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362653 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.571473 ms (FindLiveObjects: 0.075063 ms CreateObjectMapping: 0.077226 ms MarkObjects: 0.413623 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.600819 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.639741 ms (FindLiveObjects: 0.069194 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.522048 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343810 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.477257 ms (FindLiveObjects: 0.034597 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.420419 ms  DeleteObjects: 0.004942 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.653024 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.473859 ms (FindLiveObjects: 0.031508 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.416712 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.381806 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.564368 ms (FindLiveObjects: 0.034597 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.506294 ms  DeleteObjects: 0.005869 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679281 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.607615 ms (FindLiveObjects: 0.077226 ms CreateObjectMapping: 0.051895 ms MarkObjects: 0.467372 ms  DeleteObjects: 0.010193 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335470 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.585683 ms (FindLiveObjects: 0.076917 ms CreateObjectMapping: 0.039539 ms MarkObjects: 0.463665 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.686694 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.523284 ms (FindLiveObjects: 0.040466 ms CreateObjectMapping: 0.017916 ms MarkObjects: 0.455016 ms  DeleteObjects: 0.009267 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336088 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.664144 ms (FindLiveObjects: 0.083713 ms CreateObjectMapping: 0.039539 ms MarkObjects: 0.535331 ms  DeleteObjects: 0.004324 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.598348 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.484053 ms (FindLiveObjects: 0.032126 ms CreateObjectMapping: 0.017607 ms MarkObjects: 0.425670 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356166 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.580122 ms (FindLiveObjects: 0.079697 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.455325 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629547 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.558499 ms (FindLiveObjects: 0.072283 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.459649 ms  DeleteObjects: 0.008958 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.423817 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.554792 ms (FindLiveObjects: 0.074137 ms CreateObjectMapping: 0.039539 ms MarkObjects: 0.436482 ms  DeleteObjects: 0.004015 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.651170 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.484362 ms (FindLiveObjects: 0.034288 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.425052 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.358947 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.488686 ms (FindLiveObjects: 0.046335 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.419801 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.685459 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.526373 ms (FindLiveObjects: 0.051278 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.445749 ms  DeleteObjects: 0.011738 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.339794 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.468917 ms (FindLiveObjects: 0.031817 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.416094 ms  DeleteObjects: 0.004324 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.699977 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.606997 ms (FindLiveObjects: 0.073210 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.474168 ms  DeleteObjects: 0.018843 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340103 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.487451 ms (FindLiveObjects: 0.047262 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.418874 ms  DeleteObjects: 0.004015 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUIManager.Cancel () [0x00000] in <filename unknown>:0 
+  at GUIManager.AllowInsurance () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.707082 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.491776 ms (FindLiveObjects: 0.033670 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.431539 ms  DeleteObjects: 0.008958 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.341957 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.602363 ms (FindLiveObjects: 0.075990 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.474168 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.603908 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.505367 ms (FindLiveObjects: 0.036759 ms CreateObjectMapping: 0.017298 ms MarkObjects: 0.438335 ms  DeleteObjects: 0.012356 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.361727 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.478184 ms (FindLiveObjects: 0.036759 ms CreateObjectMapping: 0.017298 ms MarkObjects: 0.419183 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.617191 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.599583 ms (FindLiveObjects: 0.074137 ms CreateObjectMapping: 0.039230 ms MarkObjects: 0.476948 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353695 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.574253 ms (FindLiveObjects: 0.074445 ms CreateObjectMapping: 0.040466 ms MarkObjects: 0.450382 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.594641 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.490231 ms (FindLiveObjects: 0.036141 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.428759 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.368214 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.610704 ms (FindLiveObjects: 0.088346 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.491467 ms  DeleteObjects: 0.012973 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.625840 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.501352 ms (FindLiveObjects: 0.046335 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.429995 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340103 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.476330 ms (FindLiveObjects: 0.034288 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.421036 ms  DeleteObjects: 0.004324 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUIManager.Cancel () [0x00000] in <filename unknown>:0 
+  at GUIManager.AllowInsurance () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679898 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.484053 ms (FindLiveObjects: 0.033052 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.424434 ms  DeleteObjects: 0.008649 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.339486 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.582285 ms (FindLiveObjects: 0.074754 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.462121 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.609159 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.599274 ms (FindLiveObjects: 0.090509 ms CreateObjectMapping: 0.037995 ms MarkObjects: 0.455634 ms  DeleteObjects: 0.013900 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.355549 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.467990 ms (FindLiveObjects: 0.033052 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.413005 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.612866 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.483126 ms (FindLiveObjects: 0.033361 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.424743 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363580 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.615955 ms (FindLiveObjects: 0.088655 ms CreateObjectMapping: 0.037068 ms MarkObjects: 0.475095 ms  DeleteObjects: 0.012047 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602981 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.573635 ms (FindLiveObjects: 0.074137 ms CreateObjectMapping: 0.039230 ms MarkObjects: 0.451000 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.379643 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.547687 ms (FindLiveObjects: 0.058074 ms CreateObjectMapping: 0.018225 ms MarkObjects: 0.465519 ms  DeleteObjects: 0.005251 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.617809 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.560043 ms (FindLiveObjects: 0.042011 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.489613 ms  DeleteObjects: 0.010811 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.349679 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.655495 ms (FindLiveObjects: 0.076299 ms CreateObjectMapping: 0.045408 ms MarkObjects: 0.528226 ms  DeleteObjects: 0.004633 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GUIManager.Cancel () [0x00000] in <filename unknown>:0 
+  at GUIManager.AllowInsurance () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.687312 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.650861 ms (FindLiveObjects: 0.078152 ms CreateObjectMapping: 0.040775 ms MarkObjects: 0.522975 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.385821 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.641903 ms (FindLiveObjects: 0.083095 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.510001 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642212 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.489613 ms (FindLiveObjects: 0.033979 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.429068 ms  DeleteObjects: 0.009576 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.331763 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.541509 ms (FindLiveObjects: 0.033361 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.485289 ms  DeleteObjects: 0.005251 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628929 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.519577 ms (FindLiveObjects: 0.037377 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.452545 ms  DeleteObjects: 0.012356 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353077 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.589389 ms (FindLiveObjects: 0.106572 ms CreateObjectMapping: 0.042319 ms MarkObjects: 0.435246 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.664144 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.604217 ms (FindLiveObjects: 0.074445 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.480037 ms  DeleteObjects: 0.008958 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.418874 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.482199 ms (FindLiveObjects: 0.033979 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.426597 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.812727 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.545216 ms (FindLiveObjects: 0.033670 ms CreateObjectMapping: 0.017298 ms MarkObjects: 0.484053 ms  DeleteObjects: 0.009576 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353386 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.542127 ms (FindLiveObjects: 0.076917 ms CreateObjectMapping: 0.040775 ms MarkObjects: 0.418874 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.622133 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.612557 ms (FindLiveObjects: 0.073519 ms CreateObjectMapping: 0.039539 ms MarkObjects: 0.490231 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.339794 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.723763 ms (FindLiveObjects: 0.214688 ms CreateObjectMapping: 0.040157 ms MarkObjects: 0.463665 ms  DeleteObjects: 0.004633 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.709244 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.564368 ms (FindLiveObjects: 0.042937 ms CreateObjectMapping: 0.017607 ms MarkObjects: 0.493320 ms  DeleteObjects: 0.009576 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.333308 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.483126 ms (FindLiveObjects: 0.035832 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.418565 ms  DeleteObjects: 0.011738 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623369 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.503514 ms (FindLiveObjects: 0.050969 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.427214 ms  DeleteObjects: 0.008031 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336397 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.518959 ms (FindLiveObjects: 0.042937 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.450382 ms  DeleteObjects: 0.008340 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675883 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.518032 ms (FindLiveObjects: 0.037686 ms CreateObjectMapping: 0.016371 ms MarkObjects: 0.442969 ms  DeleteObjects: 0.020387 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.328983 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 672.
+Total: 0.667233 ms (FindLiveObjects: 0.077535 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.544289 ms  DeleteObjects: 0.004942 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Chip.CreateChip (Int32 chipIndex) [0x00000] in <filename unknown>:0 
+  at Chip.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.680207 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.576106 ms (FindLiveObjects: 0.047571 ms CreateObjectMapping: 0.016989 ms MarkObjects: 0.490231 ms  DeleteObjects: 0.020696 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.377481 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 652.
+Total: 0.502896 ms (FindLiveObjects: 0.072283 ms CreateObjectMapping: 0.039848 ms MarkObjects: 0.381497 ms  DeleteObjects: 0.008340 ms)
+
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575489 ms
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 0.609159 ms (FindLiveObjects: 0.076608 ms CreateObjectMapping: 0.040466 ms MarkObjects: 0.479728 ms  DeleteObjects: 0.011429 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363271 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 652.
+Total: 0.450382 ms (FindLiveObjects: 0.040775 ms CreateObjectMapping: 0.016680 ms MarkObjects: 0.383968 ms  DeleteObjects: 0.008340 ms)
+
+Loaded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 294 -> priority: 1 
+  Thread -> id: 1eac -> priority: 1 
+Saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
