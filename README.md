@@ -1,7 +1,7 @@
 
-<textalign="center"> BlackJack <br />
+<p align="center"> BlackJack <br /> </p>
 ====
-Famous card game with an intelligent AI <br />
+Famous card game with an intelligent AI <br /><br />
   If you want to play demo check <b>demo</b> branch. Just open <i>index</i> in any browser except Chrome. 
  --
 <p align="center">
