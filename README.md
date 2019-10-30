@@ -1,6 +1,12 @@
 <p align="center">
 <b> BlackJack </b><br />
-Famous card game with an intelligent AI <br />
+Famous card game with an intelligent AI <br /> </p>
+
+<h2> Installation </h2>
+1. Download BlackJack.exe
+2. Run BlackJack.exe
+  
+
 
 <img src="https://user-images.githubusercontent.com/23034890/34436521-94fcdbf6-eca7-11e7-959d-3f96e763a931.jpg"> <br />
 
