@@ -3,7 +3,7 @@
 Famous card game with an intelligent AI <br /> </p>
 
 <h2> Installation </h2>
-1. Download BlackJack.exe
+1. Download BlackJack.exe<br>
 2. Run BlackJack.exe
   
 
